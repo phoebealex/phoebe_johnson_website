@@ -1,0 +1,25 @@
+body {
+  background-color: thistle;
+  font-family: georgia;
+}
+H1 {
+  color: cornsilk;
+}
+H2{
+  color: cornsilk;
+}
+H3{
+  color: cornsilk;
+}
+blockquote{
+  color: purple;
+}
+TABLE,
+td {
+  border: 1px solid
+}
+thead,
+tfoot {
+  background-color: black;
+  color: cornsilk;
+}
